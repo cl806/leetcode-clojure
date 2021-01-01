@@ -1,4 +1,4 @@
-(ns leetcode-clojure.n0100.lc-0001)
+(ns leetcode-clojure.n0100.lc-0002)
 
 ;; https://leetcode.com/problems/add-two-numbers/
 
